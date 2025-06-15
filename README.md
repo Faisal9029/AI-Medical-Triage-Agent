@@ -48,7 +48,7 @@ An AI-powered medical triage assistant built with **Python**, **Streamlit**, and
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/ai-medical-triage-agent.git
+git clone https://github.com/Faisal9029/ai-medical-triage-agent.git
 cd ai-medical-triage-agent
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
